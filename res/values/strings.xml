@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phone</string>
+    <string name="hello">Hello World, PhoneActivity!</string>
+    <string name="mobile">请输入手机号</string>
+    <string name="button1">拨打</string>
+
+</resources>
